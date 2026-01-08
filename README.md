@@ -1,2 +1,0 @@
-# designpattern
-Design Principle 
